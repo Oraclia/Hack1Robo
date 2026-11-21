@@ -12,4 +12,4 @@ Présentation Hack1Robo 2026
 
 ## Petit documentaire intéressant (mais daté) de CashInvestigation
 
-* [Documentaire de 2012 Cash Investigation "Vos données valent de l'or"]([https://economictimes.indiatimes.com/news/new-updates/amazon-ring-ai-search-party-missing-dogs-smart-homes-artificial-intelligence-real-world-use/articleshow/128114009.cms](https://www.youtube.com/watch?v=s6gRBDz2Zd0&t=109s))
+* [Documentaire de 2012 Cash Investigation "Vos données valent de l'or"](https://www.youtube.com/watch?v=s6gRBDz2Zd0&t=109s)
